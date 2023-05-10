@@ -4,11 +4,11 @@ The following table provides links to Kaggle notebooks containing implementation
 
 | Title | Paper | Notebook |
 | --- | --- | --- |
-| Neural Tangents | [Neural Tangents: Fast and Easy Infinite Neural Networks in Python](https://arxiv.org/abs/1912.02803) | [Notebook](https://www.kaggle.com/username/neural-tangents-infinite-nn-in-python) |
-| GAN Dissection | [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597) | [Notebook](https://www.kaggle.com/username/gan-dissection-visualization-of-gan) |
-| BigGAN | [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096) | [Notebook](https://www.kaggle.com/username/biggan-high-fidelity-image-synthesis) |
-| EfficientNet | [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) | [Notebook](https://www.kaggle.com/username/efficientnet-rethinking-model-scaling-for-cnn) |
-| DETR | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) | [Notebook](https://www.kaggle.com/username/detr-object-detection-with-transformers) |
+| Stable Diffusion Webui | [Stable Diffusion](https://arxiv.org/pdf/2112.10752.pdf) | [Notebook](https://www.kaggle.com/code/paritprathamesh/stable-diffusion-webui-kaggle) |
+| 🐶 Bark | [Bark](https://github.com/suno-ai/bark) | [Notebook](https://www.kaggle.com/paritprathamesh/bark-demo) |
+| Whisper Jax TPU | [Whisper Jax](https://github.com/openai/whisper/discussions/1277) | [Notebook](https://www.kaggle.com/paritprathamesh/whisper-jax-tpu) |
+| Grounded Segment Anything | [Grounded SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything) | [Notebook](https://www.kaggle.com/paritprathamesh/grounded-segment-anything-demo) |
+| YOLO-v8 | [A Comprehensive Review of YOLO: From YOLOv1 to YOLOv8 and Beyond](https://arxiv.org/pdf/2304.00501.pdf) | [Notebook](https://www.kaggle.com/paritprathamesh/open-images-dataset-v6-yolo-v8) |
 
 Please note that you need to have a Kaggle account to access the notebooks. If you don't have one, you can sign up for free at [kaggle.com](https://www.kaggle.com/account/login).
 
